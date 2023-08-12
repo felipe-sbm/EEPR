@@ -1,0 +1,30 @@
+.icon {
+    width: 30px;
+    height: auto;
+    margin: 12px;
+    position:relative;
+}
+.rounded-circle{
+    width: 55px;
+    height: auto;
+}
+.creator{
+    width: 125px;
+    height: auto;
+    border-radius: 50%
+}
+.nav-link{
+    color: #dfab1e;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dark{
+    background-color: #212529;
+}
+.bg-primary, .btn-primary{
+    background-color: var(--primary) !important;
+}
